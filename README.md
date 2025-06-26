@@ -13,7 +13,10 @@ A fun, interactive dice game built using **HTML, CSS, and JavaScript**. This pro
 
 ## 📸 Preview
 
-![Game Screenshot](images/dice6.png) <!-- Replace with actual screenshot when uploading -->
+Here are screenshots of the game in action:
+
+![Dice Game Screenshot 1](screenshot/S1.png)
+![Dice Game Screenshot 2](screenshot/S2.png)
 
 ## 🚀 Getting Started
 
