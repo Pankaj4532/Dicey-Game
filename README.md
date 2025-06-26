@@ -15,8 +15,8 @@ A fun, interactive dice game built using **HTML, CSS, and JavaScript**. This pro
 
 Here are screenshots of the game in action:
 
-![Dice Game Screenshot 1](screenshot/S1.png)
-![Dice Game Screenshot 2](screenshot/S2.png)
+![Dice Game Screenshot 1](S1.png)
+![Dice Game Screenshot 2](S2.png)
 
 ## 🚀 Getting Started
 
