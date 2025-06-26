@@ -20,7 +20,7 @@ A fun, interactive dice game built using **HTML, CSS, and JavaScript**. This pro
 To play the game locally:
 
 ```bash
-git clone https://github.com/your-username/dice-game.git
+git clone https://github.com/Pankaj4532/dice-game.git
 cd dice-game
 ```
 
